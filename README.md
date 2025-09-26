@@ -1,5 +1,9 @@
-<img src="./images/Logo@0.5x.png" alt="CDC logo in white letters on a blue background with diagonal white lines, conveying a professional and official tone. The logo is positioned to the left of the PHIN-VADS project title." width="50" style="vertical-align: middle;"/> PHIN-VADS <img src="./images/Logo@0.5x.png" alt="Project Logo" width="50" style="vertical-align: middle;"/> PHIN-VADS
-
+<table>
+  <tr>
+    <td><img src="./images/Logo@0.5x.png" alt="CDC logo" width="60"></td>
+    <td><h1>PHIN-VADS</h1></td>
+  </tr>
+</table>
 
 This is a temporary location for PHIN VADS while it undergoes maintenance. In the meantime, jurisdictions can download the following MMGs from this repository:
 
