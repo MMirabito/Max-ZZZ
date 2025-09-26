@@ -1,9 +1,10 @@
-<table>
-  <tr>
-    <td><img src="./images/Logo@0.5x.png" alt="CDC logo" width="60"></td>
-    <td><h1>PHIN-VADS</h1></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="./images/Logo@0.5x.png" alt="CDC logo" width="60" style="margin-right: 10px;">
+  <h1 style="margin: 0;">PHIN-VADS</h1>
+</div>
+
+
+
 
 This is a temporary location for PHIN VADS while it undergoes maintenance. In the meantime, jurisdictions can download the following MMGs from this repository:
 
