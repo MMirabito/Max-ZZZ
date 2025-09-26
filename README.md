@@ -1,7 +1,5 @@
-<div style="display: flex; align-items: center;">
-  <img src="./images/Logo@0.5x.png" alt="CDC logo" width="60" style="margin-right: 10px;">
-  <h1 style="margin: 0;">PHIN-VADS</h1>
-</div>
+# <img src="./images/Logo@0.5x.png" alt="CDC logo" width="60" align="absmiddle"> PHIN-VADS
+
 
 
 
